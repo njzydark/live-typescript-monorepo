@@ -8,7 +8,7 @@
 		".": {
 			"import": {
 				"types": "./lib/index.d.ts",
-				"@colinhacks/source": "./index.ts",
+				"@colinhacks/source": "./src/index.ts",
 				"default": "./lib/index.js"
 			},
 			"require": {
